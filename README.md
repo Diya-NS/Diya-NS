@@ -56,7 +56,7 @@
 
 ## 🔭 Projects
 
-### 1) [Pave Wayss — Route Finder](https://github.com/Diya-NS/pave-wayss)
+### 1) [Pave Wayss — Route Finder](https://diya-ns.github.io/PaveWays/)
 
 A map-based route finder with step-by-step navigation and transport suggestions.
 **Highlights:** step icons, distance/time per step, collapse/expand instructions.
