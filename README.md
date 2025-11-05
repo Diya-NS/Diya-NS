@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Diya N S
 
 [![Profile views](https://komarev.com/ghpvc/?username=Diya-NS\&color=blueviolet)](https://github.com/Diya-NS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blue)](https://sruthi-tech.github.io/pave-wayss/)
+[![Project](https://img.shields.io/badge/Portfolio-visit-blue)](https://diya-ns.github.io/project/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/diya-ns-b45014339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
@@ -56,7 +56,7 @@
 
 ## 🔭 Projects
 
-### 1) [Pave Wayss — Route Finder](https://diya-ns.github.io/PaveWays/)
+### 1) [Pave Wayss — Route Finder](https://diya-ns.github.io/project/)
 
 A map-based route finder with step-by-step navigation and transport suggestions.
 **Highlights:** step icons, distance/time per step, collapse/expand instructions.
@@ -84,7 +84,7 @@ Converts measurements into brand-specific sizes (cm/inches).
 ## 📫 Contact
 
 * **Email:** [diyabinthnazar@gmail.com](mailto:diyabinthnazar@gmail.com)
-* **Portfolio:** [Pave Wayss](https://sruthi-tech.github.io/pave-wayss/)
+* **Portfolio:** [Pave Wayss](https://diya-ns.github.io/project/)
 * **LinkedIn:** [Diya N S](https://www.linkedin.com/in/diya-ns-b45014339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * Available for collaboration / open source contributions — DM me!
 
