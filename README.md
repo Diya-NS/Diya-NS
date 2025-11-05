@@ -15,7 +15,7 @@
 
 ## 🎓 Education
 
-* **B.Tech in Computer Science Engineering** (2024–2028) | CGPA: 9.45 (Semester 1)
+* **B.Tech in Computer Science Engineering** (2024–2028) | CGPA: 9.59
 * **Higher Secondary Education** (2022) | Score: 98%
 * **Secondary Education (10th Grade)** (2020) | Score: 95%
 
